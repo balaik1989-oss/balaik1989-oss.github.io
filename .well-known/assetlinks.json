@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.veera_wallet",
+      "sha256_cert_fingerprints": [
+        "16:7D:37:81:57:35:7C:5F:A2:CB:64:18:92:C9:46:67:03:F4:BE:0B:B8:8E:36:8A:5B:BD:97:A7:68:8E:A5:78"
+      ]
+    }
+  }
+]
